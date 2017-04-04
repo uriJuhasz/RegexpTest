@@ -148,12 +148,14 @@
   <ItemGroup>
     <ClInclude Include="CharSet.h" />
     <ClInclude Include="RegExp.h" />
+    <ClInclude Include="RegExpParser.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CharSet.cpp" />
     <ClCompile Include="RegExp.cpp" />
+    <ClCompile Include="RegExpParser.cpp" />
     <ClCompile Include="RegexpTest.cpp" />
     <ClCompile Include="stdafx.cpp" />
   </ItemGroup>
